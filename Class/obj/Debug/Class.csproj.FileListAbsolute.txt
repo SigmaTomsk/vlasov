@@ -1,0 +1,6 @@
+C:\Users\Win7\Desktop\Роман Власов Проекты\Class\Class\bin\Debug\Class.dll
+C:\Users\Win7\Desktop\Роман Власов Проекты\Class\Class\bin\Debug\Class.pdb
+C:\Users\Win7\Desktop\Роман Власов Проекты\Class\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\Win7\Desktop\Роман Власов Проекты\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Win7\Desktop\Роман Власов Проекты\Class\Class\obj\Debug\Class.dll
+C:\Users\Win7\Desktop\Роман Власов Проекты\Class\Class\obj\Debug\Class.pdb
