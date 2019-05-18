@@ -1,0 +1,10 @@
+C:\Users\Win7\source\repos\MATEMATIC\MATEMATIC\bin\Debug\MATEMATIC.exe.config
+C:\Users\Win7\source\repos\MATEMATIC\MATEMATIC\bin\Debug\MATEMATIC.exe
+C:\Users\Win7\source\repos\MATEMATIC\MATEMATIC\bin\Debug\MATEMATIC.pdb
+C:\Users\Win7\source\repos\MATEMATIC\MATEMATIC\obj\Debug\MATEMATIC.csprojAssemblyReference.cache
+C:\Users\Win7\source\repos\MATEMATIC\MATEMATIC\obj\Debug\MATEMATIC.Form1.resources
+C:\Users\Win7\source\repos\MATEMATIC\MATEMATIC\obj\Debug\MATEMATIC.Properties.Resources.resources
+C:\Users\Win7\source\repos\MATEMATIC\MATEMATIC\obj\Debug\MATEMATIC.csproj.GenerateResource.cache
+C:\Users\Win7\source\repos\MATEMATIC\MATEMATIC\obj\Debug\MATEMATIC.csproj.CoreCompileInputs.cache
+C:\Users\Win7\source\repos\MATEMATIC\MATEMATIC\obj\Debug\MATEMATIC.exe
+C:\Users\Win7\source\repos\MATEMATIC\MATEMATIC\obj\Debug\MATEMATIC.pdb
